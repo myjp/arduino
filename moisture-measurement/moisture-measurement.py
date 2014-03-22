@@ -1,6 +1,8 @@
 #!/bin/env/python
 # -*- coding: utf-8 -*-
 
+# Run on Raspberry Pi in order to log measured values from arduino connected via USB.
+
 import serial
 import datetime
 import time
